@@ -26,7 +26,7 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
    node server.js
    ```
    
-   Blog App will be live at http://localhost:3000⚡
+   Blog App will be live at http://localhost:3000
 
 ⚡ Run both servers in separate terminals:
 
