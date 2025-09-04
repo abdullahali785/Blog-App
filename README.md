@@ -18,8 +18,8 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 
 ## ⚙️ Installation & Setup
    ```bash
-   git clone https://github.com/abdullahali785/BlogAPI.git
-   cd BlogAPI
+   git clone https://github.com/abdullahali785/Blog-App.git
+   cd Blog-App
 
    npm intall
    node index.js
