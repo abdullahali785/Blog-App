@@ -1,4 +1,4 @@
-# 📰 Blog Post Manager
+# 📰 Blog App
 
 A simple **full-stack blog application** built with **Node.js, Express, and EJS**.  
 This project demonstrates **CRUD operations** (Create, Read, Update, Delete) with a front-end rendered via EJS templates and a back-end API server serving JSON data.
