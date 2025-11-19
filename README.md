@@ -59,8 +59,8 @@ The project includes:<br>
 
 ## ⚙️ Installation & Setup
    ```bash
-   git clone https://github.com/abdullahali785/Blog-App.git
-   cd Blog-App
+   git clone https://github.com/abdullahali785/BlogAPI.git
+   cd BlogAPI
 
    npm intall
    node index.js
