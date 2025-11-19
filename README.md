@@ -12,7 +12,7 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 - Create new blog posts  
 - Edit/update existing blog posts  
 - Delete posts  
-- In-memory datastore (no database required)  
+- In-memory datastore
 
 ---
 
@@ -30,8 +30,8 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 
 ⚡ Run both servers in separate terminals:
 
-Terminal 1 → Start the API server (port 4000)
+Terminal 1 → Start the API (runs on port 4000)
 node index.js
 
-Terminal 2 → Start the frontend server (port 3000)
+Terminal 2 → Start the frontend (runs on port 3000)
 node server.js
